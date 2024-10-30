@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap");
+
+h1 {
+  text-decoration: underline;
+  color: darkslategrey;
+}
+
+body {
+  background-color: rgb(255, 147, 201);
+  font-family: "Playground England SemiJoined";
+}
+
+.landing {
+  width: 100vw;
+  margin-top: 50px;
+  margin-bottom: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  margin: 2px;
+  font-family: "Playground England SemiJoined";
+}
